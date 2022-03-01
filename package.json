@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "consign": "^0.1.6",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "Este é uma solução para aplicações em petshop onde será usado o EXPRESS e SQL para integrar requisições do navegador como GET POST PATCH E DELETE para coletar dados ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kai Wang",
+  "license": "ISC"
+}
